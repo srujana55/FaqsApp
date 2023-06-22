@@ -1,0 +1,12 @@
+/* Write your code here. */
+.container {
+  text-align: center;
+  padding: 30px;
+}
+.heading {
+  color: #cb8805;
+}
+.list-con {
+  list-style: none;
+  text-align: left;
+}

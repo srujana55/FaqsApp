@@ -1,0 +1,31 @@
+/* Write your code here. */
+.list-item {
+  border: 2px solid #d7dae6;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 20px;
+}
+.con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image {
+  height: 25px;
+}
+.rule {
+  border: 1px solid #e4e7eb;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.paragraph {
+  color: #52606d;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.para {
+  color: #9aa5b1;
+  font-size: 15px;
+}
